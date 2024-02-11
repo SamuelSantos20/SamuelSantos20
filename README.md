@@ -1,4 +1,5 @@
 Olá, mundo! 👋
+
 Meu nome é Samuel, e sou um entusiasta da programação, apaixonado por Java, HTML e CSS. Atualmente, estou buscando expandir meus conhecimentos e contribuir para projetos interessantes.
 
 Sobre mim
