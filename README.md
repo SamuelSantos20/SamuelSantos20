@@ -1,16 +1,13 @@
-### Hi there 👋
+Olá, mundo! 👋
+Meu nome é Samuel, e sou um entusiasta da programação, apaixonado por Java, HTML e CSS. Atualmente, estou buscando expandir meus conhecimentos e contribuir para projetos interessantes.
 
-<!--
-**SamuelSantos20/SamuelSantos20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sobre mim
+💻 Programo em Java há 1 ano, e estou constantemente aprendendo e aprimorando minhas habilidades nesta linguagem.
+📚 Estou sempre aberto a aprender novas tecnologias e conceitos para melhorar minhas habilidades de desenvolvimento.
+O que estou fazendo
+Atualmente, estou trabalhando em alguns projetos pessoais para aprimorar minhas habilidades e contribuir para a comunidade de código aberto. Estou sempre em busca de novas oportunidades de aprendizado e colaboração.
 
-Here are some ideas to get you started:
+Como me encontrar
+Você pode me encontrar no GitHub aqui [https://github.com/SamuelSantos20] , onde estou sempre compartilhando meu trabalho e colaborando com outros desenvolvedores. Fique à vontade para me contatar se quiser discutir projetos, colaborações ou apenas trocar ideias sobre programação!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou animado para fazer parte desta comunidade e contribuir para projetos empolgantes. Vamos codificar juntos! 🚀
