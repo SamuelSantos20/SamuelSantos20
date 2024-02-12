@@ -1,4 +1,4 @@
-![Samuel GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Samuel GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelSantos20&show_icons=true&theme=aura)
 
 
 
