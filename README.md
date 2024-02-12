@@ -11,7 +11,9 @@ ESTUDANDO NO MOMENTO:
 
 ![Samuel GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelSantos20&show_icons=true&theme=aura)     ![Samuel GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelSantos20&layout=compact&theme=vision-friendly-dark)
 
+MEIO DE COMUNICAÇÃO:
 
+[![Email](https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail)](mailto:samuelfamilia377@gmail.com)
 
 
 
