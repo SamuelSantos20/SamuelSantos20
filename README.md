@@ -1,5 +1,5 @@
 Olá, mundo! 👋
-![Samuel GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+
 Meu nome é Samuel, e sou um entusiasta da programação, apaixonado por Java, HTML e CSS. Atualmente, estou buscando expandir meus conhecimentos e contribuir para projetos interessantes.
 
 Sobre mim
@@ -12,3 +12,6 @@ Como me encontrar
 Você pode me encontrar no GitHub aqui [https://github.com/SamuelSantos20] , onde estou sempre compartilhando meu trabalho e colaborando com outros desenvolvedores. Fique à vontade para me contatar se quiser discutir projetos, colaborações ou apenas trocar ideias sobre programação!
 
 Estou animado para fazer parte desta comunidade e contribuir para projetos empolgantes. Vamos codificar juntos! 🚀
+
+
+![Samuel GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
