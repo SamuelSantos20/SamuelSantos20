@@ -15,7 +15,7 @@
 MEIO DE COMUNICAÇÃO:
 
 [![Email] (https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail)](mailto:samuelfamilia377@gmail.com)
-samuelfamilia377@gmail.com
+
 
 
 
