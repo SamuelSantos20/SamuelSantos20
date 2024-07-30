@@ -29,7 +29,7 @@ Meu nome é Samuel, e sou um entusiasta da programação, apaixonado por Java, H
 
 
 Sobre mim
-💻 Programo em Java há 1 ano, e estou constantemente aprendendo e aprimorando minhas habilidades nesta linguagem.
+💻 Programo em Java há 2 anos, e estou constantemente aprendendo e aprimorando minhas habilidades nesta linguagem.
 📚 Estou sempre aberto a aprender novas tecnologias e conceitos para melhorar minhas habilidades de desenvolvimento.
 O que estou fazendo
 Atualmente, estou trabalhando em alguns projetos pessoais para aprimorar minhas habilidades e contribuir para a comunidade de código aberto. Estou sempre em busca de novas oportunidades de aprendizado e colaboração.
