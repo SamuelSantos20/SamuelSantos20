@@ -29,6 +29,10 @@ Meu nome é Samuel, e sou um entusiasta da programação, apaixonado por Java, H
 
 ![Logotipo do INSS](https://www.inss.gov.br/wp-content/themes/inss/img/logo.png)
 
+# Estágio no INSS
+
+![Logotipo do INSS](https://www.inss.gov.br/wp-content/themes/inss/img/logo.png)
+
 Atualmente, estou estagiando no Instituto Nacional do Seguro Social (INSS). Durante este estágio, estou adquirindo experiência prática em [descrição da função ou tarefas realizadas, por exemplo, desenvolvimento de sistemas, análise de dados, etc.]. Este estágio tem sido uma oportunidade valiosa para aplicar e expandir meus conhecimentos em [áreas de interesse, como programação, análise de sistemas, etc.].
 
 
