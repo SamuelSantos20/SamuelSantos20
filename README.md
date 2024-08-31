@@ -8,8 +8,6 @@
 📚Bibliotecas e Frameworks:
 
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-green?style=for-the-badge&logo=spring)](https://spring.io/projects/spring-boot)
-[![Spring Security](https://img.shields.io/badge/Spring%20Security-green?style=for-the-badge&logo=springsecurity&logoColor=white)](https://spring.io/projects/spring-security)
-
 
 
 ![Samuel GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelSantos20&show_icons=true&theme=aura)     ![Samuel GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelSantos20&layout=compact&theme=vision-friendly-dark)
