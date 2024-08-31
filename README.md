@@ -7,7 +7,8 @@
 
 📚Bibliotecas e Frameworks:
 
-<img width="75px" src="https://upload.wikimedia.org/wikipedia/commons/5/52/Spring_Framework_Logo.png" alt="Spring Icon" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+          
 
 
 
