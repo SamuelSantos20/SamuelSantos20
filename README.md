@@ -1,6 +1,9 @@
 🔍 Explorando novas tecnologias e desenvolvendo soluções inovadoras desde [ano de início]
+
 🎓 Formando em Análise e Desenvolvimento de Sistemas (ADS) na Unicarioca
+
 💼 Desenvolvedor de Software
+
 🔒 Atualmente aprendendo sobre Spring Security
 
 💻Linguagens:
