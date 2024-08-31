@@ -7,11 +7,13 @@
 
 📚Bibliotecas e Frameworks:
 
-<img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/vscode-icon.svg" alt="VSCode Icon" />
+<img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/spring-icon.svg" alt="Spring Icon" />
+
+
 
 Ambientes de Desenvolvimento:
-[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
+<img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/vscode-icon.svg" alt="VSCode Icon" />
 
 
 ![Samuel GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelSantos20&show_icons=true&theme=aura)     ![Samuel GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelSantos20&layout=compact&theme=vision-friendly-dark)
