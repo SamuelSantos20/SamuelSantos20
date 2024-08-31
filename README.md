@@ -11,8 +11,9 @@
 
 Ambientes de Desenvolvimento:
 
-[![VS Code](https://img.shields.io/badge/-0A2C5E?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)](https://code.visualstudio.com/)
-[![Spring Tools](https://img.shields.io/badge/-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/tools)
+[![VS Code](https://img.shields.io/badge/-white?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)](https://code.visualstudio.com/)
+[![Spring Tools](https://img.shields.io/badge/-white?style=for-the-badge&logo=spring&logoColor=6DB33F)](https://spring.io/tools)
+
 
 
 
