@@ -7,7 +7,7 @@
 
 📚Bibliotecas e Frameworks:
 
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-green?style=for-the-badge&logo=spring)](https://spring.io/projects/spring-boot)
+<img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/vscode-icon.svg" alt="VSCode Icon" />
 
 Ambientes de Desenvolvimento:
 [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
