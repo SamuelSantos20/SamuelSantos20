@@ -3,7 +3,7 @@ ________________________________________________________________________________
 
 🔍 Explorando novas tecnologias e desenvolvendo soluções inovadoras 
 
-🎓 Formando em Análise e Desenvolvimento de Sistemas (ADS) na Unicarioca
+🎓 Formando em Análise e Desenvolvimento de Sistemas (ADS) na <a href="https://unicarioca.edu.br/">Unicarioca</a>
 
 💼 Desenvolvedor de Software
 
