@@ -7,7 +7,7 @@
 
 📚Bibliotecas e Frameworks:
 
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+<img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
           
 
 
