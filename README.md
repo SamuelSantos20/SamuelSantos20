@@ -10,8 +10,8 @@
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-green?style=for-the-badge&logo=spring)](https://spring.io/projects/spring-boot)
 
 Ambientes de Desenvolvimento:
-![Visual Studio Code](https://path-to-your-hosted-image/vscode-icon.svg)
-![Spring Tools](https://path-to-your-hosted-image/spring-tools-icon.svg)
+[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+
 
 
 ![Samuel GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelSantos20&show_icons=true&theme=aura)     ![Samuel GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelSantos20&layout=compact&theme=vision-friendly-dark)
