@@ -1,4 +1,7 @@
-🔍 Explorando novas tecnologias e desenvolvendo soluções inovadoras desde [ano de início]
+Meu nome é Samuel e abaixo vou falar mais um pouco sobre mim :)
+_________________________________________________________________________________________
+
+🔍 Explorando novas tecnologias e desenvolvendo soluções inovadoras 
 
 🎓 Formando em Análise e Desenvolvimento de Sistemas (ADS) na Unicarioca
 
