@@ -11,7 +11,8 @@
 
 Ambientes de Desenvolvimento:
 
-[![VS Code](https://img.shields.io/badge/-white?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)](https://code.visualstudio.com/)
+[![VS Code](https://img.shields.io/badge/-white?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&logoWidth=40)](https://code.visualstudio.com/)
+
 [![Spring Tools](https://img.shields.io/badge/-white?style=for-the-badge&logo=spring&logoColor=6DB33F)](https://spring.io/tools)
 
 
