@@ -25,8 +25,7 @@ ________________________________________________________________________________
 
 Ambientes de Desenvolvimento:
 
-<img width="50px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/vscode-icon.svg" alt="VSCode Icon" />
-<img  width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
+<img width="50px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/vscode-icon.svg" alt="VSCode Icon" /><img  width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
           
 
 ![Samuel GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelSantos20&show_icons=true&theme=aura)     ![Samuel GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelSantos20&layout=compact&theme=vision-friendly-dark)
