@@ -25,7 +25,8 @@ ________________________________________________________________________________
 
 Ambientes de Desenvolvimento:
 
-<img width="50px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/vscode-icon.svg" alt="VSCode Icon" /><img  width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" /><img width="75px" src="https://raw.githubusercontent.com/SamuelSantos20/icons-for-readme/main/spring-tools-suite-icon.svg" alt="Spring Tools Suite Icon" />
+<img width="50px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/vscode-icon.svg" alt="VSCode Icon" /><img  width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" /><img width="75px" src="https://upload.wikimedia.org/wikipedia/commons/5/52/Spring_Framework_Logo.png" alt="Spring Tools Suite Icon" />
+
 
           
 
