@@ -1,7 +1,6 @@
 # 👋 Olá, eu sou o **Samuel!**
 
-Sou um **Desenvolvedor de Software** com paixão por **explorar novas tecnologias** e **desenvolver soluções inovadoras**. Atualmente, estou focado em aprimorar minhas habilidades em segurança de aplicações com **Spring Security**.
-
+Sou um **Desenvolvedor de Software** com paixão por **explorar novas tecnologias** e **desenvolver soluções inovadoras**.
 ![Coding GIF](https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif)
 
 
