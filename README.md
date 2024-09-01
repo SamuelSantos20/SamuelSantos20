@@ -20,7 +20,7 @@ public class AboutMe {
         samuel.connectToCommunity("GitHub", "LinkedIn");
         samuel.showProfile();
     }
-}```
+}
 
 
 ## **Sobre Mim**
@@ -58,4 +58,4 @@ public class AboutMe {
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SamuelSantos20)
 
 ---
-
+```
