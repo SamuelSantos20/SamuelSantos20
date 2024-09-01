@@ -2,7 +2,7 @@
 
 Sou um **Desenvolvedor de Software** com paixão por **explorar novas tecnologias** e **desenvolver soluções inovadoras**. Atualmente, estou focado em aprimorar minhas habilidades em segurança de aplicações com **Spring Security**.
 
-![Coding GIF](https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif)
+![Coding GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
 
 ## **Sobre Mim**
 
