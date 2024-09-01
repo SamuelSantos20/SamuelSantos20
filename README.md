@@ -20,7 +20,7 @@ public class AboutMe {
         samuel.connectToCommunity("GitHub", "LinkedIn");
         samuel.showProfile();
     }
-}```
+}
 
 
 ## **Sobre Mim**
