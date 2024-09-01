@@ -4,24 +4,6 @@ Sou um **Desenvolvedor de Software** com paixão por **explorar novas tecnologia
 
 ![Coding GIF](https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif)
 
-```java
-import samuel.dev.Profile;
-
-public class AboutMe {
-    public static void main(String[] args) {
-        Developer samuel = new Developer("Samuel Santos");
-        samuel.setLocation(new Local("Rio de Janeiro", "Brazil"));
-        samuel.addSkill("Java");
-        samuel.addSkill("HTML");
-        samuel.addSkill("CSS");
-        samuel.addSkill("Spring Boot");
-        samuel.addLearning("Spring Security");
-
-        samuel.connectToCommunity("GitHub", "LinkedIn");
-        samuel.showProfile();
-    }
-}
-
 
 ## **Sobre Mim**
 
@@ -58,4 +40,3 @@ public class AboutMe {
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SamuelSantos20)
 
 ---
-```
