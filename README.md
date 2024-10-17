@@ -25,7 +25,8 @@ Sou um **Desenvolvedor de Software** com paixão por **explorar novas tecnologia
 
 ## **⚙️ Ambientes de Desenvolvimento**
 
-<img width="50px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/vscode-icon.svg" alt="VSCode" /><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" alt="Eclipse" />
+<img width="50px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/vscode-icon.svg" alt="VSCode" /><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" alt="Eclipse" /> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/IntelliJ_IDEA_Logo.svg" alt="IntelliJ IDEA" width="50px" height="40"/>
+
 
 ## **📊 Estatísticas do GitHub**
 
