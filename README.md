@@ -9,7 +9,7 @@ Sou um **Desenvolvedor de Software** com paixão por **explorar novas tecnologia
 - 🔍 **Explorando novas tecnologias** e **desenvolvendo soluções inovadoras.**
 - 🎓 **Formando em Análise e Desenvolvimento de Sistemas (ADS)** na [Unicarioca](https://unicarioca.edu.br/).
 - 💼 **Desenvolvedor de Software** com interesse em **projetos desafiadores.**
-- 🔒 **Atualmente aprendendo sobre Spring Security.**
+- 🔒 **Atualmente aprendendo sobre Kotlin.**
 - 📫 **Você pode me contatar por email em:** [samuelfamilia377@gmail.com](mailto:samuelfamilia377@gmail.com).
 
 ## **💻 Minhas Habilidades 😎**
