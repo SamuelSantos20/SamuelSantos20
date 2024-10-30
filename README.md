@@ -25,7 +25,7 @@ Sou um **Desenvolvedor de Software** com paixão por **explorar novas tecnologia
 
 ## **🚀 DevOps**
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git Logo" width="50px"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git Logo" width="90px"> 
 
 ## **⚙️ Ambientes de Desenvolvimento**
 
