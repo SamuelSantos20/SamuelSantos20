@@ -23,6 +23,10 @@ Sou um **Desenvolvedor de Software** com paixão por **explorar novas tecnologia
 
 <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring" />
 
+## **🚀 DevOps**
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git Logo" width="50px"> 
+
 ## **⚙️ Ambientes de Desenvolvimento**
 
 <img width="50px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/vscode-icon.svg" alt="VSCode" /><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" alt="Eclipse" /> <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.png" alt="IntelliJ IDEA" width="50px" height="50px"/>
