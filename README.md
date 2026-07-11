@@ -1,11 +1,15 @@
 <h1 align="center">Olá, eu sou o Samuel Santos! 👋</h1>
 
 <p align="center">
-  <strong>Desenvolvedor de Software • Java & Spring Boot • Backend</strong>
+  <strong>Desenvolvedor de Software • Analista de Dados • Java, Python & SQL</strong>
 </p>
 
 <p align="center">
-  Transformo ideias em aplicações organizadas, seguras e úteis, com foco em APIs e soluções para problemas reais.
+  <img width="100%" src="assets/developer-workspace.png" alt="Ilustração neon de um ambiente de desenvolvimento" />
+</p>
+
+<p align="center">
+  Transformo dados e ideias em soluções úteis, unindo desenvolvimento de software, análise e visualização de informações.
 </p>
 
 <p align="center">
@@ -24,8 +28,8 @@
 ```java
 public class Samuel extends Developer {
     String nome = "Samuel Santos Miranda";
-    String area = "Desenvolvimento de Software";
-    String foco = "Backend com Java e Spring Boot";
+    String area = "Desenvolvimento de Software e Dados";
+    String foco = "Java, Python, SQL e Business Intelligence";
     String formacao = "Análise e Desenvolvimento de Sistemas — UniCarioca";
 
     String[] interesses = {
@@ -39,6 +43,41 @@ public class Samuel extends Developer {
 - ☕ Foco em desenvolvimento backend com **Java e Spring Boot**
 - 🧩 Experiência prática criando APIs, sistemas de gestão e aplicações web
 - 🚀 Sempre estudando novas tecnologias e aprimorando boas práticas de desenvolvimento
+
+## Experiências
+
+<table>
+  <tr>
+    <td width="100" align="center">
+      <img src="assets/marinha-brasil.svg" width="76" alt="Emblema da Marinha do Brasil" />
+    </td>
+    <td>
+      <strong>Analista de Dados — Estágio</strong><br />
+      <a href="https://www.marinha.mil.br/">Marinha do Brasil</a> • mai de 2026 — atualmente<br /><br />
+      Atuação no Departamento de Gestão de Custos, apoiando análises e a tomada de decisão. Trabalho com tratamento de dados em JSON, CSV e Excel; criação de dashboards e relatórios com Power BI e Metabase; e limpeza, organização e integração de bases usando Python, Pandas e SQL.
+    </td>
+  </tr>
+  <tr>
+    <td width="100" align="center">
+      <img src="assets/inss.png" width="76" alt="Emblema do INSS" />
+    </td>
+    <td>
+      <strong>Estagiário de Dados e Software</strong><br />
+      <a href="https://www.gov.br/inss/pt-br">INSS</a> • mar de 2024 — mar de 2026<br /><br />
+      Apoio ao desenvolvimento e à manutenção de soluções internas, análise de sistemas em uso, suporte a ferramentas eletrônicas e orientação ao público. Também participei de diagnósticos e ajustes em redes de dados e comunicação.
+    </td>
+  </tr>
+  <tr>
+    <td width="100" align="center">
+      <img src="assets/usp.svg" width="82" alt="Emblema da Universidade de São Paulo" />
+    </td>
+    <td>
+      <strong>3º lugar — ROBLOX Jam for Change</strong><br />
+      <a href="https://www.iea.usp.br/">Instituto de Estudos Avançados da USP</a> • mar a abr de 2026<br /><br />
+      Com minha equipe, desenvolvi o jogo educacional <strong>Reignite</strong>. Atuei como programador, estruturando as mecânicas em Lua no Roblox Studio. O projeto conquistou o 3º lugar, foi certificado pelo IEA‑USP, Roblox e Games for Change América Latina e recebeu uma premiação de US$ 500.
+    </td>
+  </tr>
+</table>
 
 ## Tecnologias
 
