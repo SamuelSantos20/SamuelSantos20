@@ -113,8 +113,8 @@ public class Samuel extends Developer {
 ## Estatísticas do GitHub
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SamuelSantos20&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub de Samuel" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelSantos20&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais usadas por Samuel" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SamuelSantos20&theme=tokyonight" alt="Estatísticas do GitHub de Samuel" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SamuelSantos20&theme=tokyonight" alt="Linguagens mais usadas por Samuel" />
 </div>
 
 <div align="center">
