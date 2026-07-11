@@ -42,8 +42,10 @@ public class Samuel extends Developer {
 ```
 
 - 🎓 Formação em **Análise e Desenvolvimento de Sistemas** pela UniCarioca
-- ☕ Foco em desenvolvimento backend com **Java e Spring Boot**
-- 🧩 Experiência prática criando APIs, sistemas de gestão e aplicações web
+- ☕ Desenvolvimento backend com **Java, Spring Boot e APIs REST**
+- 📊 Análise e tratamento de dados com **Python, Pandas e SQL**
+- 📈 Criação de dashboards e relatórios para apoio à decisão com **Power BI e Metabase**
+- 🧩 Experiência prática em integração de dados, sistemas de gestão e aplicações web
 - 🚀 Sempre estudando novas tecnologias e aprimorando boas práticas de desenvolvimento
 
 ## Experiências
