@@ -1,7 +1,9 @@
 <h1 align="center">Olá, eu sou o Samuel Santos! 👋</h1>
 
 <p align="center">
-  <strong>Desenvolvedor de Software • Analista de Dados • Java, Python & SQL</strong>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1100&amp;color=7C3AED&amp;center=true&amp;vCenter=true&amp;width=720&amp;lines=Desenvolvedor+de+Software;Analista+de+Dados;Java+%7C+Python+%7C+SQL;Transformando+dados+em+solu%C3%A7%C3%B5es" alt="Apresentação animada: Desenvolvedor de Software e Analista de Dados" />
+  </a>
 </p>
 
 <p align="center">
