@@ -1,48 +1,88 @@
-# 👋 Olá, eu sou o **Samuel!**
+<h1 align="center">Olá, eu sou o Samuel Santos! 👋</h1>
 
-Sou um **Desenvolvedor de Software** com paixão por **explorar novas tecnologias** e **desenvolver soluções inovadoras**.
-![Coding GIF](https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif)
+<p align="center">
+  <strong>Desenvolvedor de Software • Java & Spring Boot • Backend</strong>
+</p>
 
+<p align="center">
+  Transformo ideias em aplicações organizadas, seguras e úteis, com foco em APIs e soluções para problemas reais.
+</p>
 
-## **Sobre Mim**
-
-- 🔍 **Explorando novas tecnologias** e **desenvolvendo soluções inovadoras.**
-- 🎓 **Formando em Análise e Desenvolvimento de Sistemas (ADS)** na [Unicarioca](https://unicarioca.edu.br/).
-- 💼 **Desenvolvedor de Software** com interesse em **projetos desafiadores.**
-- 🔒 **Atualmente aprendendo sobre Kotlin.**
-- 📫 **Você pode me contatar por email em:** [samuelfamilia377@gmail.com](mailto:samuelfamilia377@gmail.com).
-
-## **💻 Minhas Habilidades 😎**
-
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" /><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" /><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="HTML5" /><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="CSS3" />
-
-
-
-
-
-
-## **📚 Bibliotecas e Frameworks**
-
-<img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring" />
-
-## **🚀 DevOps**
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git Logo" width="90px">   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="Heroku" width="40" height="40"/>
-
-
-## **⚙️ Ferramentas e Ambientes**
-
-<img width="50px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/vscode-icon.svg" alt="VSCode" /><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" alt="Eclipse" /> <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.png" alt="IntelliJ IDEA" width="50px" height="50px"/><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50px" height="50px"/>
-
-
-## **📊 Estatísticas do GitHub**
-
-![Samuel GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelSantos20&show_icons=true&theme=aura) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelSantos20&layout=compact&theme=vision-friendly-dark)
-
-## **🌐 Meios de Comunicação**
-
-[![Email](https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail)](mailto:samuelfamilia377@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SamuelSantos20)
+<p align="center">
+  <a href="https://www.linkedin.com/in/samuel-santos20/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:samuelfamilia377@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
+
+## Sobre mim
+
+```java
+public class Samuel extends Developer {
+    String nome = "Samuel Santos Miranda";
+    String area = "Desenvolvimento de Software";
+    String foco = "Backend com Java e Spring Boot";
+    String formacao = "Análise e Desenvolvimento de Sistemas — UniCarioca";
+
+    String[] interesses = {
+        "APIs REST", "Arquitetura de Software",
+        "Bancos de Dados", "Segurança"
+    };
+}
+```
+
+- 🎓 Formação em **Análise e Desenvolvimento de Sistemas** pela UniCarioca
+- ☕ Foco em desenvolvimento backend com **Java e Spring Boot**
+- 🧩 Experiência prática criando APIs, sistemas de gestão e aplicações web
+- 🚀 Sempre estudando novas tecnologias e aprimorando boas práticas de desenvolvimento
+
+## Tecnologias
+
+### Linguagens
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css" alt="Java, Python, JavaScript, HTML e CSS" />
+</p>
+
+### Backend e dados
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,mysql,postgres" alt="Spring, MySQL e PostgreSQL" />
+</p>
+
+### Ferramentas e ambiente
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,idea,vscode" alt="Git, GitHub, Docker, Postman, IntelliJ IDEA e VS Code" />
+</p>
+
+## Projetos em destaque
+
+| Projeto | Descrição | Tecnologias |
+| --- | --- | --- |
+| [Library API](https://github.com/SamuelSantos20/library-api) | API para gerenciamento de biblioteca | Java, Spring Boot |
+| [Time Sheet](https://github.com/SamuelSantos20/time-sheet) | API para controle de ponto empresarial | Java, Spring Boot |
+| [Stock Management System](https://github.com/SamuelSantos20/Stock_Management_System) | Sistema web para controle de estoque | Java, Spring Boot, Spring Security, MySQL, Thymeleaf |
+| [Corporate Manager](https://github.com/SamuelSantos20/Corporate_Manager) | Gestão de cargos, departamentos e funcionários | Java, Spring Boot, Thymeleaf |
+
+## Estatísticas do GitHub
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SamuelSantos20&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub de Samuel" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelSantos20&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais usadas por Samuel" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=SamuelSantos20&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições de Samuel" />
+</div>
+
+---
+
+<p align="center">
+  Vamos conversar sobre tecnologia, projetos e oportunidades? Entre em contato pelo
+  <a href="https://www.linkedin.com/in/samuel-santos20/">LinkedIn</a>.
+</p>
