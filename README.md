@@ -121,6 +121,12 @@ public class Samuel extends Developer {
   <img src="https://streak-stats.demolab.com?user=SamuelSantos20&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições de Samuel" />
 </div>
 
+## Contribuições em 3D
+
+<p align="center">
+  <img width="100%" src="./profile-3d-contrib/profile-neon.svg" alt="Gráfico 3D animado das contribuições de Samuel" />
+</p>
+
 ---
 
 <p align="center">
