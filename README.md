@@ -69,7 +69,7 @@ public class Samuel extends Developer {
   </tr>
   <tr>
     <td width="100" align="center">
-      <img src="assets/usp.svg" width="82" alt="Emblema da Universidade de São Paulo" />
+      <img src="assets/usp.png" width="82" alt="Emblema da Universidade de São Paulo" />
     </td>
     <td>
       <strong>3º lugar — ROBLOX Jam for Change</strong><br />
