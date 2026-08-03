@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import html
 import json
+import math
 import os
 import urllib.error
 import urllib.parse
@@ -136,23 +137,46 @@ def render_languages(repos: list[dict[str, Any]]) -> str:
         else "Linguagens mais usadas"
     )
 
-    svg = [svg_header(480, 250), f'  <text x="24" y="34" class="title">{heading}</text>']
+    svg = [svg_header(480, 205), f'  <text x="24" y="34" class="title">{heading}</text>']
 
     if not top:
         svg.append('  <text x="24" y="80" class="label">Nenhum dado de linguagem disponível.</text>')
     else:
+        center_x = 122
+        center_y = 112
+        radius = 58
+        stroke_width = 22
+        circumference = 2 * math.pi * radius
+        offset = 0.0
+
+        svg.append(
+            f'  <circle cx="{center_x}" cy="{center_y}" r="{radius}" fill="none" '
+            f'stroke="{BORDER}" stroke-width="{stroke_width}" />'
+        )
+
         for index, (language, value) in enumerate(top):
-            percentage = value / grand_total * 100
-            y = 67 + index * 35
-            bar_width = max(4.0, 414 * percentage / 100)
+            segment = circumference * value / grand_total
             color = LANGUAGE_COLORS[index % len(LANGUAGE_COLORS)]
+            legend_y = 68 + index * 27
             svg.extend(
                 [
-                    f'  <text x="24" y="{y}" class="language">{html.escape(language)}</text>',
-                    f'  <rect x="24" y="{y + 8}" width="414" height="8" rx="4" fill="{BORDER}" />',
-                    f'  <rect x="24" y="{y + 8}" width="{bar_width:.1f}" height="8" rx="4" fill="{color}" />',
+                    f'  <circle cx="{center_x}" cy="{center_y}" r="{radius}" fill="none" '
+                    f'stroke="{color}" stroke-width="{stroke_width}" '
+                    f'stroke-dasharray="{segment:.2f} {circumference - segment:.2f}" '
+                    f'stroke-dashoffset="{-offset:.2f}" '
+                    f'transform="rotate(-90 {center_x} {center_y})" />',
+                    f'  <rect x="232" y="{legend_y - 10}" width="12" height="12" rx="3" fill="{color}" />',
+                    f'  <text x="253" y="{legend_y}" class="language">{html.escape(language)}</text>',
                 ]
             )
+            offset += segment
+
+        svg.extend(
+            [
+                f'  <text x="{center_x}" y="108" text-anchor="middle" class="language">TOP 5</text>',
+                f'  <text x="{center_x}" y="126" text-anchor="middle" class="label">linguagens</text>',
+            ]
+        )
 
     svg.append("</svg>\n")
     return "\n".join(svg)
