@@ -168,7 +168,7 @@ def main() -> None:
         raise RuntimeError("Resposta inesperada da API ao carregar o perfil.")
 
     write_svg("github-stats.svg", render_stats(profile, repos))
-    write_svg("github-languages.svg", render_languages(repos))
+    write_svg("github-languages-bars.svg", render_languages(repos))
 
 
 if __name__ == "__main__":
