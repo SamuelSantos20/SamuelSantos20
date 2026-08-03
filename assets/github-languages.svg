@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="250" viewBox="0 0 480 250" role="img">
+  <title>Principais tecnologias de Samuel Santos</title>
+  <style>
+    .title { font: 600 18px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #a78bfa; }
+    .label { font: 600 14px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #e6edf3; }
+    .muted { font: 400 12px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #8b949e; }
+  </style>
+  <rect x="0.5" y="0.5" width="479" height="249" rx="10" fill="#0d1117" stroke="#30363d" />
+  <text x="24" y="34" class="title">Principais tecnologias</text>
+  <circle cx="34" cy="72" r="6" fill="#b07219" /><text x="52" y="77" class="label">Java e Spring Boot</text>
+  <circle cx="34" cy="108" r="6" fill="#3572A5" /><text x="52" y="113" class="label">Python e Pandas</text>
+  <circle cx="34" cy="144" r="6" fill="#336791" /><text x="52" y="149" class="label">SQL e PostgreSQL</text>
+  <circle cx="34" cy="180" r="6" fill="#f1e05a" /><text x="52" y="185" class="label">JavaScript, HTML e CSS</text>
+  <circle cx="34" cy="216" r="6" fill="#2496ed" /><text x="52" y="221" class="label">Docker e GitHub Actions</text>
+</svg>
