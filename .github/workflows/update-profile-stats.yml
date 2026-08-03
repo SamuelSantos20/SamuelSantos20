@@ -41,13 +41,13 @@ jobs:
 
       - name: Publicar atualização
         run: |
-          if git diff --quiet -- assets/github-stats.svg assets/github-languages.svg; then
+          if git diff --quiet -- assets/github-stats.svg assets/github-languages-bars.svg; then
             echo "As estatísticas já estão atualizadas."
             exit 0
           fi
 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/github-stats.svg assets/github-languages.svg
+          git add assets/github-stats.svg assets/github-languages-bars.svg
           git commit -m "Atualiza estatísticas do GitHub"
           git push
