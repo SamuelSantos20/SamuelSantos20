@@ -14,6 +14,11 @@ from typing import Any
 API_BASE = "https://api.github.com"
 USERNAME = os.getenv("GITHUB_USERNAME", "SamuelSantos20")
 TOKEN = os.getenv("GITHUB_TOKEN", "")
+FEATURED_REPOSITORIES = {
+    name.strip().lower()
+    for name in os.getenv("STATS_REPOSITORIES", "").split(",")
+    if name.strip()
+}
 OUTPUT_DIR = Path("assets")
 
 BACKGROUND = "#0d1117"
@@ -21,7 +26,6 @@ BORDER = "#30363d"
 TITLE = "#a78bfa"
 TEXT = "#e6edf3"
 MUTED = "#8b949e"
-ACCENT = "#7c3aed"
 LANGUAGE_COLORS = ["#7c3aed", "#58a6ff", "#3fb950", "#d29922", "#f778ba"]
 
 
@@ -95,7 +99,7 @@ def render_stats(profile: dict[str, Any], repos: list[dict[str, Any]]) -> str:
     ]
     positions = [(28, 68), (250, 68), (28, 138), (250, 138)]
 
-    svg = [svg_header(480, 205), f'  <text x="24" y="34" class="title">Resumo do perfil</text>']
+    svg = [svg_header(480, 205), '  <text x="24" y="34" class="title">Resumo do perfil</text>']
     for (label, value), (x, y) in zip(metrics, positions, strict=True):
         svg.append(f'  <text x="{x}" y="{y}" class="value">{value}</text>')
         svg.append(f'  <text x="{x}" y="{y + 20}" class="label">{html.escape(label)}</text>')
@@ -109,6 +113,13 @@ def render_languages(repos: list[dict[str, Any]]) -> str:
     totals: Counter[str] = Counter()
     eligible = [repo for repo in repos if not repo.get("fork") and not repo.get("archived")]
 
+    if FEATURED_REPOSITORIES:
+        eligible = [
+            repo
+            for repo in eligible
+            if str(repo.get("name", "")).lower() in FEATURED_REPOSITORIES
+        ]
+
     for repo in eligible:
         full_name = repo.get("full_name")
         if not full_name:
@@ -120,8 +131,13 @@ def render_languages(repos: list[dict[str, Any]]) -> str:
 
     top = totals.most_common(5)
     grand_total = sum(value for _, value in top) or 1
+    heading = (
+        "Linguagens nos projetos em destaque"
+        if FEATURED_REPOSITORIES
+        else "Linguagens mais usadas"
+    )
 
-    svg = [svg_header(480, 250), f'  <text x="24" y="34" class="title">Linguagens mais usadas</text>']
+    svg = [svg_header(480, 250), f'  <text x="24" y="34" class="title">{heading}</text>']
 
     if not top:
         svg.append('  <text x="24" y="80" class="label">Nenhum dado de linguagem disponível.</text>')
@@ -129,14 +145,14 @@ def render_languages(repos: list[dict[str, Any]]) -> str:
         for index, (language, value) in enumerate(top):
             percentage = value / grand_total * 100
             y = 67 + index * 35
-            bar_width = max(4, round(300 * percentage / 100))
+            bar_width = max(4.0, 414 * percentage / 100)
             color = LANGUAGE_COLORS[index % len(LANGUAGE_COLORS)]
             svg.extend(
                 [
                     f'  <text x="24" y="{y}" class="language">{html.escape(language)}</text>',
                     f'  <text x="438" y="{y}" text-anchor="end" class="percent">{percentage:.1f}%</text>',
                     f'  <rect x="24" y="{y + 8}" width="414" height="8" rx="4" fill="{BORDER}" />',
-                    f'  <rect x="24" y="{y + 8}" width="{bar_width * 1.38:.1f}" height="8" rx="4" fill="{color}" />',
+                    f'  <rect x="24" y="{y + 8}" width="{bar_width:.1f}" height="8" rx="4" fill="{color}" />',
                 ]
             )
 
