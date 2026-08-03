@@ -77,7 +77,6 @@ def svg_header(width: int, height: int) -> str:
     .label {{ font: 400 12px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: {MUTED}; }}
     .value {{ font: 700 24px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: {TEXT}; }}
     .language {{ font: 600 13px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: {TEXT}; }}
-    .percent {{ font: 400 12px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: {MUTED}; }}
   </style>
   <rect x="0.5" y="0.5" width="{width - 1}" height="{height - 1}" rx="10" fill="{BACKGROUND}" stroke="{BORDER}" />
 '''
@@ -150,7 +149,6 @@ def render_languages(repos: list[dict[str, Any]]) -> str:
             svg.extend(
                 [
                     f'  <text x="24" y="{y}" class="language">{html.escape(language)}</text>',
-                    f'  <text x="438" y="{y}" text-anchor="end" class="percent">{percentage:.1f}%</text>',
                     f'  <rect x="24" y="{y + 8}" width="414" height="8" rx="4" fill="{BORDER}" />',
                     f'  <rect x="24" y="{y + 8}" width="{bar_width:.1f}" height="8" rx="4" fill="{color}" />',
                 ]
