@@ -9,25 +9,25 @@
   </style>
   <rect x="0.5" y="0.5" width="479" height="249" rx="10" fill="#0d1117" stroke="#30363d" />
 
-  <text x="24" y="34" class="title">Linguagens mais usadas</text>
+  <text x="24" y="34" class="title">Linguagens nos projetos em destaque</text>
   <text x="24" y="67" class="language">Java</text>
-  <text x="438" y="67" text-anchor="end" class="percent">42.1%</text>
+  <text x="438" y="67" text-anchor="end" class="percent">63.3%</text>
   <rect x="24" y="75" width="414" height="8" rx="4" fill="#30363d" />
-  <rect x="24" y="75" width="173.9" height="8" rx="4" fill="#7c3aed" />
-  <text x="24" y="102" class="language">HTML</text>
-  <text x="438" y="102" text-anchor="end" class="percent">22.4%</text>
+  <rect x="24" y="75" width="261.9" height="8" rx="4" fill="#7c3aed" />
+  <text x="24" y="102" class="language">JavaScript</text>
+  <text x="438" y="102" text-anchor="end" class="percent">13.1%</text>
   <rect x="24" y="110" width="414" height="8" rx="4" fill="#30363d" />
-  <rect x="24" y="110" width="92.5" height="8" rx="4" fill="#58a6ff" />
-  <text x="24" y="137" class="language">CSS</text>
-  <text x="438" y="137" text-anchor="end" class="percent">15.8%</text>
+  <rect x="24" y="110" width="54.4" height="8" rx="4" fill="#58a6ff" />
+  <text x="24" y="137" class="language">HTML</text>
+  <text x="438" y="137" text-anchor="end" class="percent">10.9%</text>
   <rect x="24" y="145" width="414" height="8" rx="4" fill="#30363d" />
-  <rect x="24" y="145" width="64.9" height="8" rx="4" fill="#3fb950" />
-  <text x="24" y="172" class="language">SCSS</text>
-  <text x="438" y="172" text-anchor="end" class="percent">10.1%</text>
+  <rect x="24" y="145" width="45.0" height="8" rx="4" fill="#3fb950" />
+  <text x="24" y="172" class="language">CSS</text>
+  <text x="438" y="172" text-anchor="end" class="percent">7.3%</text>
   <rect x="24" y="180" width="414" height="8" rx="4" fill="#30363d" />
-  <rect x="24" y="180" width="41.4" height="8" rx="4" fill="#d29922" />
-  <text x="24" y="207" class="language">Less</text>
-  <text x="438" y="207" text-anchor="end" class="percent">9.7%</text>
+  <rect x="24" y="180" width="30.1" height="8" rx="4" fill="#d29922" />
+  <text x="24" y="207" class="language">Python</text>
+  <text x="438" y="207" text-anchor="end" class="percent">5.5%</text>
   <rect x="24" y="215" width="414" height="8" rx="4" fill="#30363d" />
-  <rect x="24" y="215" width="40.0" height="8" rx="4" fill="#f778ba" />
+  <rect x="24" y="215" width="22.6" height="8" rx="4" fill="#f778ba" />
 </svg>
