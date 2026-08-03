@@ -109,6 +109,8 @@ public class Samuel extends Developer {
 | --- | --- | --- |
 | [Library API](https://github.com/SamuelSantos20/library-api) | API para gerenciamento de biblioteca | Java, Spring Boot |
 | [Time Sheet](https://github.com/SamuelSantos20/time-sheet) | API para controle de ponto empresarial | Java, Spring Boot |
+| [Finanças Municipais da Baixada](https://github.com/SamuelSantos20/financas-municipais-baixada) | Pipeline para extração e análise de dados fiscais públicos dos municípios da Baixada Fluminense | Python, Pandas, Requests, SICONFI API |
+| [Game Synopsis](https://github.com/SamuelSantos20/game_synopsis) | API para catálogo e organização de jogos em listas personalizadas | Java, Spring Boot, PostgreSQL, MapStruct, Liquibase, Docker, Swagger |
 | [Stock Management System](https://github.com/SamuelSantos20/Stock_Management_System) | Sistema web para controle de estoque | Java, Spring Boot, Spring Security, MySQL, Thymeleaf |
 | [Corporate Manager](https://github.com/SamuelSantos20/Corporate_Manager) | Gestão de cargos, departamentos e funcionários | Java, Spring Boot, Thymeleaf |
 
