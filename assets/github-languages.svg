@@ -1,15 +1,33 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="480" height="250" viewBox="0 0 480 250" role="img">
-  <title>Principais tecnologias de Samuel Santos</title>
+  <title>Estatísticas do GitHub de SamuelSantos20</title>
   <style>
     .title { font: 600 18px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #a78bfa; }
-    .label { font: 600 14px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #e6edf3; }
-    .muted { font: 400 12px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #8b949e; }
+    .label { font: 400 12px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #8b949e; }
+    .value { font: 700 24px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #e6edf3; }
+    .language { font: 600 13px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #e6edf3; }
+    .percent { font: 400 12px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #8b949e; }
   </style>
   <rect x="0.5" y="0.5" width="479" height="249" rx="10" fill="#0d1117" stroke="#30363d" />
-  <text x="24" y="34" class="title">Principais tecnologias</text>
-  <circle cx="34" cy="72" r="6" fill="#b07219" /><text x="52" y="77" class="label">Java e Spring Boot</text>
-  <circle cx="34" cy="108" r="6" fill="#3572A5" /><text x="52" y="113" class="label">Python e Pandas</text>
-  <circle cx="34" cy="144" r="6" fill="#336791" /><text x="52" y="149" class="label">SQL e PostgreSQL</text>
-  <circle cx="34" cy="180" r="6" fill="#f1e05a" /><text x="52" y="185" class="label">JavaScript, HTML e CSS</text>
-  <circle cx="34" cy="216" r="6" fill="#2496ed" /><text x="52" y="221" class="label">Docker e GitHub Actions</text>
+
+  <text x="24" y="34" class="title">Linguagens mais usadas</text>
+  <text x="24" y="67" class="language">Java</text>
+  <text x="438" y="67" text-anchor="end" class="percent">42.1%</text>
+  <rect x="24" y="75" width="414" height="8" rx="4" fill="#30363d" />
+  <rect x="24" y="75" width="173.9" height="8" rx="4" fill="#7c3aed" />
+  <text x="24" y="102" class="language">HTML</text>
+  <text x="438" y="102" text-anchor="end" class="percent">22.4%</text>
+  <rect x="24" y="110" width="414" height="8" rx="4" fill="#30363d" />
+  <rect x="24" y="110" width="92.5" height="8" rx="4" fill="#58a6ff" />
+  <text x="24" y="137" class="language">CSS</text>
+  <text x="438" y="137" text-anchor="end" class="percent">15.8%</text>
+  <rect x="24" y="145" width="414" height="8" rx="4" fill="#30363d" />
+  <rect x="24" y="145" width="64.9" height="8" rx="4" fill="#3fb950" />
+  <text x="24" y="172" class="language">SCSS</text>
+  <text x="438" y="172" text-anchor="end" class="percent">10.1%</text>
+  <rect x="24" y="180" width="414" height="8" rx="4" fill="#30363d" />
+  <rect x="24" y="180" width="41.4" height="8" rx="4" fill="#d29922" />
+  <text x="24" y="207" class="language">Less</text>
+  <text x="438" y="207" text-anchor="end" class="percent">9.7%</text>
+  <rect x="24" y="215" width="414" height="8" rx="4" fill="#30363d" />
+  <rect x="24" y="215" width="40.0" height="8" rx="4" fill="#f778ba" />
 </svg>
