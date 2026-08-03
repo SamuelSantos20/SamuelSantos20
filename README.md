@@ -117,11 +117,12 @@ public class Samuel extends Developer {
 ## Estatísticas do GitHub
 
 <div align="center">
-  <img width="65%" src="assets/github-stats.svg" alt="Resumo das estatísticas do GitHub de Samuel" />
+  <img width="48%" src="assets/github-stats.svg" alt="Resumo das estatísticas do GitHub de Samuel" />
+  <img width="48%" src="assets/github-languages-bars.svg" alt="Linguagens mais usadas nos projetos em destaque" />
 </div>
 
 <p align="center">
-  <sub>Cartão armazenado no próprio repositório e atualizado automaticamente pelo GitHub Actions.</sub>
+  <sub>Cartões armazenados no próprio repositório e atualizados automaticamente pelo GitHub Actions.</sub>
 </p>
 
 ---
