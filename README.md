@@ -118,7 +118,7 @@ public class Samuel extends Developer {
 
 <div align="center">
   <img width="48%" src="assets/github-stats.svg" alt="Resumo das estatísticas do GitHub de Samuel" />
-  <img width="48%" src="assets/github-languages.svg" alt="Linguagens e tecnologias mais usadas por Samuel" />
+  <img width="48%" src="assets/github-languages-bars.svg" alt="Linguagens e tecnologias mais usadas por Samuel" />
 </div>
 
 <p align="center">
