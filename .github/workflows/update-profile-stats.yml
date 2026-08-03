@@ -36,6 +36,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_USERNAME: ${{ github.repository_owner }}
+          STATS_REPOSITORIES: library-api,time-sheet,financas-municipais-baixada,game_synopsis,Stock_Management_System,amparo-hub
         run: python scripts/generate_github_stats.py
 
       - name: Publicar atualização
