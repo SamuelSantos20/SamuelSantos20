@@ -1,56 +1,45 @@
-<h1 align="center">Olá, eu sou o Samuel Santos! 👋</h1>
+```text
+  .oooooo..o                                                   oooo
+ d8P'    `Y8                                                   `888
+ Y88bo.       .oooo.   ooo. .oo.  .oo.   oooo  oooo   .ooooo.   888
+  `"Y8888o.  `P  )88b  `888P"Y88bP"Y88b  `888  `888  d88' `88b  888
+      `"Y88b  .oP"888   888   888   888   888   888  888ooo888  888
+ oo     .d8P d8(  888   888   888   888   888   888  888    .o  888
+ 8""88888P'  `Y888""8o o888o o888o o888o  `V88V"V8P' `Y8bod8P' o888o
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1100&amp;color=7C3AED&amp;center=true&amp;vCenter=true&amp;width=720&amp;lines=Desenvolvedor+de+Software;Analista+de+Dados;Java+%7C+Python+%7C+SQL;Transformando+dados+em+solu%C3%A7%C3%B5es" alt="Apresentação animada: Desenvolvedor de Software e Analista de Dados" />
-  </a>
-</p>
-
-<p align="center">
-  <img width="100%" src="assets/developer-workspace.png" alt="Ilustração neon de um ambiente de desenvolvimento" />
-</p>
-
-<p align="center">
-  Transformo dados e ideias em soluções úteis, unindo desenvolvimento de software, análise e visualização de informações.
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/samuel-santos20/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <br />
-  <a href="https://www.instagram.com/_samusm_/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:samuelfamilia377@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
----
-
-## Sobre mim
-
-```java
-public class Samuel extends Developer {
-    String nome = "Samuel Santos Miranda";
-    String area = "Desenvolvimento de Software e Dados";
-    String foco = "Java, Python, SQL e Business Intelligence";
-    String formacao = "Análise e Desenvolvimento de Sistemas — UniCarioca";
-
-    String[] interesses = {
-        "APIs REST", "Arquitetura de Software",
-        "Bancos de Dados", "Segurança"
-    };
-}
+ .-----------------------------------------------------------------------------.
+ | (x) (-) (+)                   ~/sobre-mim.txt                               |
+ |-----------------------------------------------------------------------------|
+ |                                                                             |
+ | Sou Samuel Santos Miranda, desenvolvedor de software e                      |
+ | analista de dados. Transformo dados e ideias em soluções úteis.             |
+ |                                                                             |
+ | Trabalho com Java, Spring Boot, Python, SQL e BI.                           |
+ | Formado em Análise e Desenvolvimento de Sistemas pela UniCarioca.           |
+ | -@SamuelSantos20                                                            |
+ |                                                                             |
+ '-----------------------------------------------------------------------------'
 ```
 
-- 🎓 Formação em **Análise e Desenvolvimento de Sistemas** pela UniCarioca
-- ☕ Desenvolvimento backend com **Java, Spring Boot e APIs REST**
-- 📊 Análise e tratamento de dados com **Python, Pandas e SQL**
-- 📈 Criação de dashboards e relatórios para apoio à decisão com **Power BI e Metabase**
-- 🧩 Experiência prática em integração de dados, sistemas de gestão e aplicações web
-- 🚀 Sempre estudando novas tecnologias e aprimorando boas práticas de desenvolvimento
+<p><img src="./imgs/headings/stack.svg" alt="01 Tecnologias" width="270" height="51"></p>
+
+<p>
+  <img src="./imgs/icons/lang-java.svg" alt="Java" title="Java" width="60" height="60"
+  ><img src="./imgs/icons/lang-python.svg" alt="Python" title="Python" width="60" height="60"
+  ><img src="./imgs/icons/lang-sql.svg" alt="SQL" title="SQL" width="60" height="60"
+  ><img src="./imgs/icons/lang-spring.svg" alt="Spring Boot" title="Spring Boot" width="60" height="60"
+  ><img src="./imgs/icons/lang-powerbi.svg" alt="Power BI" title="Power BI" width="60" height="60"
+  ><img src="./imgs/icons/lang-github.svg" alt="GitHub" title="GitHub" width="60" height="60">
+</p>
+
+<p><img src="./imgs/headings/social.svg" alt="02 Contato" width="204" height="51"></p>
+
+<p>
+  <a href="https://www.linkedin.com/in/samuel-santos20/"><img src="./imgs/icons/linkedin.svg" alt="LinkedIn" title="LinkedIn" width="60" height="60"></a
+  ><a href="https://www.instagram.com/_samusm_/"><img src="./imgs/icons/instagram.svg" alt="Instagram" title="Instagram" width="60" height="60"></a
+  ><a href="https://github.com/SamuelSantos20"><img src="./imgs/icons/github.svg" alt="GitHub" title="GitHub" width="60" height="60"></a
+  ><a href="mailto:samuelfamilia377@gmail.com"><img src="./imgs/icons/email.svg" alt="Send me an email" title="Email" width="60" height="60"></a>
+</p>
 
 ## Experiências
 
@@ -87,26 +76,6 @@ public class Samuel extends Developer {
   </tr>
 </table>
 
-## Tecnologias
-
-### Linguagens
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css" alt="Java, Python, JavaScript, HTML e CSS" />
-</p>
-
-### Backend e dados
-
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,mysql,postgres" alt="Spring, MySQL e PostgreSQL" />
-</p>
-
-### Ferramentas e ambiente
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,idea,vscode" alt="Git, GitHub, Docker, Postman, IntelliJ IDEA e VS Code" />
-</p>
-
 ## Projetos em destaque
 
 | Projeto | Descrição | Tecnologias |
@@ -131,7 +100,8 @@ public class Samuel extends Developer {
 
 ---
 
-<p align="center">
-  Vamos conversar sobre tecnologia, projetos e oportunidades? Entre em contato pelo
-  <a href="https://www.linkedin.com/in/samuel-santos20/">LinkedIn</a>.
-</p>
+```text
+ SamuelSantos20@github ~ % exit
+ logout
+ Até a próxima.▌
+```
