@@ -19,20 +19,20 @@
                                                                      ⠀⠀⠈⠂⠃⠛⠈⠘⠃⠂⠀⠀⠂⠐⠃⠂⠊⠘⠃⠛⠐⠂⠀⠂⠉⠂
 
  .-----------------------------------------------------------------------------.
- | (x) (-) (+)                    ~/about-me.txt                               |
+ | (x) (-) (+)                   ~/sobre-mim.txt                               |
  |-----------------------------------------------------------------------------|
  |                                                                             |
- | I'm Samuel Santos Miranda, a software developer and data analyst.           |
- | I turn data and ideas into useful solutions.                                |
+ | Sou Samuel Santos Miranda, desenvolvedor de software e                      |
+ | analista de dados. Transformo dados e ideias em soluções úteis.             |
  |                                                                             |
- | I work with Java, Spring Boot, Python, SQL, and BI.                         |
- | I have a degree in Systems Analysis and Development from UniCarioca.        |
+ | Trabalho com Java, Spring Boot, Python, SQL e BI.                           |
+ | Sou formado em Análise e Desenvolvimento de Sistemas pela UniCarioca.       |
  | -@SamuelSantos20                                                            |
  |                                                                             |
  '-----------------------------------------------------------------------------'
 ```
 
-<p><img src="./imgs/headings/stack.svg" alt="01 Tech stack" width="249" height="51"></p>
+<p><img src="./imgs/headings/stack.svg" alt="01 Tecnologias" width="270" height="51"></p>
 
 <p>
   <img src="./imgs/icons/lang-java.svg" alt="Java" title="Java" width="60" height="60"
@@ -43,77 +43,76 @@
   ><img src="./imgs/icons/lang-github.svg" alt="GitHub" title="GitHub" width="60" height="60">
 </p>
 
-<p><img src="./imgs/headings/social.svg" alt="02 Contact" width="204" height="51"></p>
+<p><img src="./imgs/headings/social.svg" alt="02 Contato" width="204" height="51"></p>
 
 <p>
   <a href="https://www.linkedin.com/in/samuel-santos20/"><img src="./imgs/icons/linkedin.svg" alt="LinkedIn" title="LinkedIn" width="60" height="60"></a
   ><a href="https://www.instagram.com/_samusm_/"><img src="./imgs/icons/instagram.svg" alt="Instagram" title="Instagram" width="60" height="60"></a
   ><a href="https://github.com/SamuelSantos20"><img src="./imgs/icons/github.svg" alt="GitHub" title="GitHub" width="60" height="60"></a
-  ><a href="mailto:samuelfamilia377@gmail.com"><img src="./imgs/icons/email.svg" alt="Send me an email" title="Email" width="60" height="60"></a>
+  ><a href="mailto:samuelfamilia377@gmail.com"><img src="./imgs/icons/email.svg" alt="Enviar e-mail" title="Email" width="60" height="60"></a>
 </p>
 
-## Experience
+## Experiências
 
 <table>
   <tr>
     <td width="100" align="center">
-      <img src="assets/marinha-brasil.svg" width="76" alt="Brazilian Navy emblem" />
+      <img src="assets/marinha-brasil.svg" width="76" alt="Emblema da Marinha do Brasil" />
     </td>
     <td>
-      <strong>Data Analyst Intern</strong><br />
-      <a href="https://www.marinha.mil.br/">Brazilian Navy</a> • May 2026 — present<br /><br />
-      I support analysis and decision-making in the Cost Management Department. My work includes processing JSON, CSV, and Excel data; building dashboards and reports with Power BI and Metabase; and cleaning, organizing, and integrating datasets with Python, Pandas, and SQL.
+      <strong>Analista de Dados — Estágio</strong><br />
+      <a href="https://www.marinha.mil.br/">Marinha do Brasil</a> • mai de 2026 — atualmente<br /><br />
+      Atuação no Departamento de Gestão de Custos, apoiando análises e a tomada de decisão. Trabalho com tratamento de dados em JSON, CSV e Excel; criação de dashboards e relatórios com Power BI e Metabase; e limpeza, organização e integração de bases usando Python, Pandas e SQL.
     </td>
   </tr>
   <tr>
     <td width="100" align="center">
-      <img src="assets/inss.png" width="76" alt="INSS emblem" />
+      <img src="assets/inss.png" width="76" alt="Emblema do INSS" />
     </td>
     <td>
-      <strong>Data and Software Intern</strong><br />
-      <a href="https://www.gov.br/inss/pt-br">INSS</a> • Mar 2024 — Mar 2026<br /><br />
-      I helped develop and maintain internal solutions, analyzed existing systems, supported digital tools, and assisted the public. I also helped diagnose and adjust data and communication networks.
+      <strong>Estagiário de Dados e Software</strong><br />
+      <a href="https://www.gov.br/inss/pt-br">INSS</a> • mar de 2024 — mar de 2026<br /><br />
+      Apoio ao desenvolvimento e à manutenção de soluções internas, análise de sistemas em uso, suporte a ferramentas eletrônicas e orientação ao público. Também participei de diagnósticos e ajustes em redes de dados e comunicação.
     </td>
   </tr>
   <tr>
     <td width="100" align="center">
-      <img src="assets/usp.png" width="82" alt="University of São Paulo emblem" />
+      <img src="assets/usp.png" width="82" alt="Emblema da Universidade de São Paulo" />
     </td>
     <td>
-      <strong>3rd place — ROBLOX Jam for Change</strong><br />
-      <a href="https://www.iea.usp.br/">USP Institute for Advanced Studies</a> • Mar–Apr 2026<br /><br />
-      My team developed the educational game <strong>Reignite</strong>. I programmed its mechanics in Lua using Roblox Studio. The project placed 3rd, received certification from IEA-USP, Roblox, and Games for Change Latin America, and won a US$500 prize.
+      <strong>3º lugar — ROBLOX Jam for Change</strong><br />
+      <a href="https://www.iea.usp.br/">Instituto de Estudos Avançados da USP</a> • mar a abr de 2026<br /><br />
+      Com minha equipe, desenvolvi o jogo educacional <strong>Reignite</strong>. Atuei como programador, estruturando as mecânicas em Lua no Roblox Studio. O projeto conquistou o 3º lugar, foi certificado pelo IEA‑USP, Roblox e Games for Change América Latina e recebeu uma premiação de US$ 500.
     </td>
   </tr>
 </table>
 
-## Featured projects
+## Projetos em destaque
 
-| Project | Description | Technologies |
+| Projeto | Descrição | Tecnologias |
 | --- | --- | --- |
-| [Library API](https://github.com/SamuelSantos20/library-api) | Library management API | Java, Spring Boot |
-| [Time Sheet](https://github.com/SamuelSantos20/time-sheet) | Employee time tracking API | Java, Spring Boot |
-| [Finanças Municipais da Baixada](https://github.com/SamuelSantos20/financas-municipais-baixada) | Pipeline for extracting and analyzing public fiscal data from municipalities in the Baixada Fluminense region | Python, Pandas, Requests, SICONFI API |
-| [Game Synopsis](https://github.com/SamuelSantos20/game_synopsis) | API for cataloging games and organizing personalized lists | Java, Spring Boot, PostgreSQL, MapStruct, Liquibase, Docker, Swagger |
-| [Stock Management System](https://github.com/SamuelSantos20/Stock_Management_System) | Web-based inventory management system | Java, Spring Boot, Spring Security, MySQL, Thymeleaf |
-| [Corporate Manager](https://github.com/SamuelSantos20/Corporate_Manager) | Management of roles, departments, and employees | Java, Spring Boot, Thymeleaf |
+| [Library API](https://github.com/SamuelSantos20/library-api) | API para gerenciamento de biblioteca | Java, Spring Boot |
+| [Time Sheet](https://github.com/SamuelSantos20/time-sheet) | API para controle de ponto empresarial | Java, Spring Boot |
+| [Finanças Municipais da Baixada](https://github.com/SamuelSantos20/financas-municipais-baixada) | Pipeline para extração e análise de dados fiscais públicos dos municípios da Baixada Fluminense | Python, Pandas, Requests, SICONFI API |
+| [Game Synopsis](https://github.com/SamuelSantos20/game_synopsis) | API para catálogo e organização de jogos em listas personalizadas | Java, Spring Boot, PostgreSQL, MapStruct, Liquibase, Docker, Swagger |
+| [Stock Management System](https://github.com/SamuelSantos20/Stock_Management_System) | Sistema web para controle de estoque | Java, Spring Boot, Spring Security, MySQL, Thymeleaf |
+| [Corporate Manager](https://github.com/SamuelSantos20/Corporate_Manager) | Gestão de cargos, departamentos e funcionários | Java, Spring Boot, Thymeleaf |
 
-## GitHub stats
+## Estatísticas do GitHub
 
 <div align="center">
-  <img width="48%" src="assets/github-stats.svg" alt="Summary of Samuel's GitHub statistics" />
-  <img width="48%" src="assets/github-languages-bars.svg" alt="Most used languages in featured projects" />
+  <img width="48%" src="assets/github-stats.svg" alt="Resumo das estatísticas do GitHub de Samuel" />
+  <img width="48%" src="assets/github-languages-bars.svg" alt="Linguagens mais usadas nos projetos em destaque" />
 </div>
 
 <p align="center">
-  <sub>Cards are stored in this repository and updated automatically by GitHub Actions.</sub>
+  <sub>Cartões armazenados no próprio repositório e atualizados automaticamente pelo GitHub Actions.</sub>
 </p>
 
 ---
 
 ```text
  SamuelSantos20@github ~ % exit
- logout
- See you next time.▌
+ sessão encerrada
+ Até a próxima.▌
 ```
-
