@@ -1,12 +1,12 @@
-```text
-  .oooooo..o                                                   oooo
- d8P'    `Y8                                                   `888
+<table><tr><td><pre>  .oooooo..o                                                   oooo
+ d8P&#x27;    `Y8                                                   `888
  Y88bo.       .oooo.   ooo. .oo.  .oo.   oooo  oooo   .ooooo.   888
-  `"Y8888o.  `P  )88b  `888P"Y88bP"Y88b  `888  `888  d88' `88b  888
-      `"Y88b  .oP"888   888   888   888   888   888  888ooo888  888
+  `&quot;Y8888o.  `P  )88b  `888P&quot;Y88bP&quot;Y88b  `888  `888  d88&#x27; `88b  888
+      `&quot;Y88b  .oP&quot;888   888   888   888   888   888  888ooo888  888
  oo     .d8P d8(  888   888   888   888   888   888  888    .o  888
- 8""88888P'  `Y888""8o o888o o888o o888o  `V88V"V8P' `Y8bod8P' o888o
+ 8&quot;&quot;88888P&#x27;  `Y888&quot;&quot;8o o888o o888o o888o  `V88V&quot;V8P&#x27; `Y8bod8P&#x27; o888o</pre></td><td><img src="./imgs/mikey-tokyo-revengers.png" alt="Pixel art portrait of Mikey from Tokyo Revengers" width="160"></td></tr></table>
 
+```text
  .-----------------------------------------------------------------------------.
  | (x) (-) (+)                    ~/about-me.txt                               |
  |-----------------------------------------------------------------------------|
@@ -105,3 +105,4 @@
  logout
  See you next time.▌
 ```
+
